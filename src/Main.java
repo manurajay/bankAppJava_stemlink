@@ -1,6 +1,7 @@
 
 
 public class Main {
+    //project is now on github you can check it
 
     public static void main(String[] args) {
         user ashini = new user("Ashini Abey","08th June", "Panadura");
@@ -9,6 +10,7 @@ public class Main {
         System.out.println(ashini.name);
         System.out.println(thenuk.name);
         System.out.println(sasanka.name);
+        System.out.println(sasanka.address);
 
         System.out.println("-------------------------------------------");
 

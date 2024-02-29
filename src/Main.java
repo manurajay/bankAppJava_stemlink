@@ -11,6 +11,7 @@ public class Main {
         System.out.println(thenuk.name);
         System.out.println(sasanka.name);
         System.out.println(sasanka.address);
+        System.out.println(thenuk.address);
 
         System.out.println("-------------------------------------------");
 
